@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/meet91-hub/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/meet91-hub/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/meet91-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/meet91-hub/Leetcode/tree/master/0397-integer-replacement) |
+| [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
