@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meet91-hub/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/meet91-hub/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meet91-hub/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/meet91-hub/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/meet91-hub/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/meet91-hub/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -150,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/meet91-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
