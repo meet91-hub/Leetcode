@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/meet91-hub/Leetcode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/meet91-hub/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/meet91-hub/Leetcode/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/meet91-hub/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/meet91-hub/Leetcode/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/meet91-hub/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
