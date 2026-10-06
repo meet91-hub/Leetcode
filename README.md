@@ -89,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/meet91-hub/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/meet91-hub/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/meet91-hub/Leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/meet91-hub/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/meet91-hub/Leetcode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
