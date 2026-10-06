@@ -30,17 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/meet91-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/meet91-hub/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0678-valid-parenthesis-string](https://github.com/meet91-hub/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/meet91-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/meet91-hub/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/meet91-hub/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/meet91-hub/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0397-integer-replacement](https://github.com/meet91-hub/Leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/meet91-hub/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/meet91-hub/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/meet91-hub/Leetcode/tree/master/0397-integer-replacement) |
 | [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/meet91-hub/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/meet91-hub/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
