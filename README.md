@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/meet91-hub/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/meet91-hub/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/meet91-hub/Leetcode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/meet91-hub/Leetcode/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/meet91-hub/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/meet91-hub/Leetcode/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/meet91-hub/Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/meet91-hub/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/meet91-hub/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
