@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/meet91-hub/Leetcode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/meet91-hub/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/meet91-hub/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meet91-hub/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/meet91-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/meet91-hub/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 ## Tree
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
