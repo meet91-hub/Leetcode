@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/meet91-hub/Leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/meet91-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/meet91-hub/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0621-task-scheduler](https://github.com/meet91-hub/Leetcode/tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/meet91-hub/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/meet91-hub/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/meet91-hub/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meet91-hub/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/meet91-hub/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/meet91-hub/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meet91-hub/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/meet91-hub/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/meet91-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/meet91-hub/Leetcode/tree/master/0397-integer-replacement) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/meet91-hub/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
