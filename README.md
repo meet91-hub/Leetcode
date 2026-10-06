@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/meet91-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/meet91-hub/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0397-integer-replacement](https://github.com/meet91-hub/Leetcode/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/meet91-hub/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meet91-hub/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/meet91-hub/Leetcode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/meet91-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/meet91-hub/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/meet91-hub/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/meet91-hub/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Memoization
 |  |
 | ------- |
